@@ -31,6 +31,15 @@ Mission 3 freefall / skydive cameras remain excluded, same as the original rebui
 
 ## Quick start
 
+### Download (recommended)
+
+1. Open [Releases](https://github.com/io1g-cmd/007fl-fov-rebuilder-gui/releases/latest).
+2. Download `007fl-fov-rebuilder-gui-v1.0.0.zip` and extract anywhere.
+3. Double-click `Launch.bat` (auto-installs Python via winget if missing, then installs `lz4`).
+4. Select your game folder, adjust values, click **Build & Install**.
+
+### From source
+
 1. Download or clone this repository.
 2. Double-click `Launch.bat`.
 3. Select your game folder, for example:
